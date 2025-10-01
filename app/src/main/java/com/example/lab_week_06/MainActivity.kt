@@ -66,6 +66,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Simba",
+                    "King of the backyard jungle",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Always gazing at the stars",
+                    "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Garfield",
+                    "Loves lasagna, hates Mondays",
+                    "https://cdn2.thecatapi.com/images/b5a.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Misty",
+                    "Mysterious and elegant",
+                    "https://cdn2.thecatapi.com/images/e5a.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Nala",
+                    "Playful and curious",
+                    "https://cdn2.thecatapi.com/images/d3j.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Oscar",
+                    "The grumpy watcher",
+                    "https://cdn2.thecatapi.com/images/5j9.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Cleo",
+                    "Elegant queen of the house",
+                    "https://cdn2.thecatapi.com/images/MjAwNzc5Ng.jpg"
                 )
             )
         )
